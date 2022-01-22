@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head> 
+		<title>Implicit link assignment</title> 
+	</head>
+	<meta charset="utf-8">
+		<body>
+			<img src="dog pic.png>
+		</body>
+</html>
