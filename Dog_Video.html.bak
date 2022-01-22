@@ -1,15 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head> 
-		<title>Implicit link assignment</title> 
+	<head>
+	<title>youtube dog videos</title>
+		<meta charset="utf-8">
 	</head>
-	<meta charset="utf-8">
 		<body>
-			<img src="dog pic.png">
 		<nav>
 			<a href="file:///C:/Users/Admin/Documents/GitHub/Tech-Academy-Project/HTML-and-CSS-Projects/Assigment.html">Assignment page</a>
 			<a href="Dog.html">Doggos</a>
 			<a href="https://www.youtube.com/watch?v=KZUlXNuL02A">German Shepherd vids</a>
-		</nav>
 		</body>
 </html>
