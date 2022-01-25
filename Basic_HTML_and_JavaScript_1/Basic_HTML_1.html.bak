@@ -2,15 +2,17 @@
 <html lang="en">
 <script src="Basic_JavaScript_1.js"></script>
 	<body> 
-		<p><font color="green" face="Calibri" size="4">Hello, my name is Jalen and i'm enjoying learning about software development.
+		<p><font color="green" face="Calibri" size="4">Hello, my name is <i>Jalen</i> and i'm enjoying learning about software development.
 							This is a paragraph for the font assignment. I choose the color green, I hope it 
 							works first try. If not, no big deal. I just have look the code over closely and compare and see what I did wrong.
-							it's usually just a small error which makes it harder to find. </font></p>
+							it's usually just a <u>small</u> error which makes it harder to find. </font></p>
 						<p><font color="blue" face="Calibri" size="3"> Needed a third size. </font></p>
 		<p><font color="#DC143C" face="Roboto" size="5">Second paragraph, I'm on the train on the way to work. Its a crisp and foggy Monday morning
-								It's quiet on the train today which is good, gives me time to wake up over a period of time 
+								It's <b>quiet</b> on the train today which is good, gives me time to wake up over a period of time 
 								rather than having to be alert and attentive to everyone around me. I can see the sunrise peaking through between
 								the trees getting glimpses of warmth streaking across my face through the branches. Overall, its been a good train ride so far.
+							<img sc="https://media.edutopia.org/styles/responsive_1400px_original/s3/masters/d7_images/cover_media/finley-quiet-noisy-class-redo-460x345.jpg" alt="hush">
+							
 		</font></p>
 	</body>	
 </html>
