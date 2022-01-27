@@ -3,6 +3,7 @@
 	<body>
 		<link rel = "stylesheet" type = "text/css" href = "Basic_CSS_2.css">
 		<p>Style font. 10&lt;15</p>
+	<h1> The text-shadow Property</h1>
 	</body>
 </html>
 	
