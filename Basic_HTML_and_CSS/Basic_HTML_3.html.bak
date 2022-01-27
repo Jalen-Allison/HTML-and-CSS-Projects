@@ -2,14 +2,10 @@
 <html lang="en">
 	<head> 
 		<title>Basic HTML and CSS assignment</title> 
+		<link rel="stylesheet" type="text/css" href=Basic_CSS_1.css">
 	</head>
 	<meta charset="utf-8">
-		<style> 
-		p {
-			color: blue;
-			text-align right;
-			}
-		</style>
+	
 <body>
 		<p> Hello, I am currently using the style element. Text should be blue.</p>
 		<h2>DIV heading</h2>
