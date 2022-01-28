@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<p><h1>Spacing Challenge | 2:00&nbsp;a.m. |</h1></p>
+</head>
+	<body>
+	<!-- This section is about eye color -->
+	<section>
+	<h2>Eye color</h2>
+	<p><h3>
+		She has <span style="color:blue;font-weight:bold">blue</span> eyes,<br>
+		While he has brown <span style="color:brown;font-weight:bold">brown</span> eyes.<br>
+		-Unknown
+		</h3>
+	</section>
+	</p>
+	</body>
+</html>
