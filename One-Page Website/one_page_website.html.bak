@@ -1,0 +1,183 @@
+<DOCTYPE html>
+<html lang="en">
+	<head>
+		<title> Customs | Heat on feet</title>
+		<meta charset="utf-8">
+	</head>
+<body>
+		<!-- Nav -->
+		<div>
+			<div>
+				<ul>
+					<a href="#home" id="link"><li>HOME</li></a>
+					<a href="#gallery"><li>GALLERY</li></a>
+					<a href="#contact"><li>CONSULTATION</li></a>
+					<a href="#video" id="link"><li>VIDEO</li></a>
+				</ul>
+			</div>
+		</div>
+		<!--END NAV -->
+		
+		<!--HOME -->
+		<div id="home">
+			<div>
+				<div>
+					<span><h1>K.O.D.</h1></span>
+				</div>
+			</div>
+		</div>
+		<!--END HOME -->
+		
+		<!-- GALLERY -->
+		<section>
+			<div id="gallery">
+				<h1>Gallery</h1>
+				<div>
+				
+					<!-- PHOTO CONTAINER 1 -->
+					<div>
+						<div>
+							<img src="./image2/thumb2/thumbnail_11.jpeg" alt="Naurto shoe">
+							<div>
+								<h3>Anime Collection</h3>
+								<p>Rep your clan with confidence.<br>
+								Rates differ depending on design.<br>
+								</p>
+							</div>
+						</div>
+					</div>
+					<!--END PHOTO-CONTAINER 1 -->
+					
+					<!-- PHOTO CONTAINER 2 -->
+					<div>
+						<div>
+							<img src="./image2/thumb2/thumbnail_22.jpg" alt="Christmas celetic 11s">
+							<div>
+								<h3>Sports Collection</h3>
+								<p>For our sports fanatics, rock your team how you want.<br>
+									Rates differ depending on design.<br>
+								</p>
+							</div>
+						</div>
+					</div>
+					<!--END PHOTO-CONTAINER 2 -->
+					
+					<!-- PHOTO CONTAINER 3 -->
+					<div>
+						<div>
+							<img src="./image2/thumb2/thumbnail_33.jpg" alt="Gaming 4s">
+							<div>
+								<h3>Gaming Collection</h3>
+								<p>For our gamers. Design whichever system is your favorite. We don't discriminate.<br>
+									Rates differ depending on design.<br>
+								</p>
+							</div>
+						</div>
+					</div>
+					<!--END PHOTO-CONTAINER 3 -->
+					
+					<!-- PHOTO CONTAINER 4-->
+					<div>
+						<div>
+							<img src="./image2/thumb2/thumbnail_44.jpg" alt="Air-1 butterfly">
+							<div>
+								<h3>Sleek Collection</h3>
+								<p>For our more simple design lovers.<br>
+									Rates differ depending on design.<br> 
+								</p>
+							</div>
+						</div>
+					</div>
+					<!--END PHOTO-CONTAINER 4 -->
+					
+					<!-- PHOTO CONTAINER 5 -->
+					<div>
+						<div>
+							<img src="./image2/thumb2/thumbnail_55.jpg" alt="Kobe Potrait">
+							<div>
+								<h3>Portrait Collection</h3>
+								<p>Send in a portrait and we'll capture the details of a loved one or your hero.<br>
+									Rates differ depending on design.<br> 
+								</p>
+							</div>
+						</div>
+					</div>
+					<!--END PHOTO-CONTAINER 5 -->
+					
+					<!-- PHOTO CONTAINER 6 -->
+					<div>
+						<div>
+							<img src="./image2/thumb2/thumbnail_66.jpg" alt="Two-tone">
+							<div>
+								<h3>Two-tone Collection</h3>
+								<p>Mix any two colors of your liking and see them flawlessy fade into eachother.<br>
+									Rates differ depending on design.<br> 
+								</p>
+							</div>
+						</div>
+					</div>
+					<!--END PHOTO-CONTAINER 6 -->
+					
+				</div>
+			</div>
+		</section>
+		 <!-- END GALLERY -->
+		 
+		  <!-- CONSULTATION -->
+		 <section>
+			<div id="Consultation">
+				<div>
+					<h1>Consultation</h1>
+					<div>
+						<h2><span>Design your perfect shoe that you've always wanted.<br> 
+						</span>
+							<p>Anime, potraits, scenery, animals and more. We can do it all!</p>
+						</h2>
+						<p>
+							Please provide us with your basic contact information.
+						</p>
+						<div>
+							<form action="" method="post">
+								<input class="rsvp" type="text" value="First Name">
+								<input class="rsvp" type="text" value="Last Name">
+								<input class="rsvp" type="text" value="Email Address">
+								<input class="rsvp" type="text" value="Phone Number">
+								<div class="form-spacer">
+									<label class="terms">Terms and Conditions</label>
+								</div>
+								<div>
+									<input type="submit" value="Submit">
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--END SIGN UP -->
+		
+		<!-- Video -->
+		<section>
+			<div id="Video">
+				<div>
+					<h1>Montage</h1>
+					<div>
+							src="<iframe width="894" height="643" src="https://www.youtube.com/embed/Ip2WovuP8SI" title="YouTube video player" 
+							frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+							allowfullscreen></iframe>">
+						</iframe>
+					</div>	
+				</div>
+			</div>
+		</section>
+		<!-- END VIDEO -->
+			
+		
+		<!--FOOTER -->
+		<div>
+			www.customsshoes.com &nbsp;|&nbsp; &copy; 2022
+		</div>
+		<!-- END FOOTER -->
+		
+	</body>
+</html>
