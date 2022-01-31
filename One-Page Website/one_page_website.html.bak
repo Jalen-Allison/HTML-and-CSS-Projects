@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<title> Customs | Heat on feet</title>
-		<meta charset="utf-8">
+		<meta charset="utf-8">.
 	</head>
 <body>
 		<!-- Nav -->
@@ -11,8 +11,8 @@
 				<ul>
 					<a href="#home" id="link"><li>HOME</li></a>
 					<a href="#gallery"><li>GALLERY</li></a>
-					<a href="#contact"><li>CONSULTATION</li></a>
-					<a href="#video" id="link"><li>VIDEO</li></a>
+					<a href="#consultation"><li>CONSULTATION</li></a>
+					<a href="#montage"><li>MONTAGE</li></a>
 				</ul>
 			</div>
 		</div>
@@ -154,11 +154,11 @@
 				</div>
 			</div>
 		</section>
-		<!--END SIGN UP -->
+		<!--END CONSULTATION -->
 		
-		<!-- Video -->
+		<!-- Montage -->
 		<section>
-			<div id="Video">
+			<div id="Montage">
 				<div>
 					<h1>Montage</h1>
 					<div>
@@ -170,7 +170,7 @@
 				</div>
 			</div>
 		</section>
-		<!-- END VIDEO -->
+		<!-- END Montage -->
 			
 		
 		<!--FOOTER -->
