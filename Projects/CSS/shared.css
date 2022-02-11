@@ -264,7 +264,7 @@ CONSULTATION STYLES
     font-family: 'Raleway', sans-serif;
 }
 
-.consultation input[input="text"] {
+.consultation input[type="text"] {
     font-size: 15px;
     outline: none;
     font-weight: 600;
